@@ -77,6 +77,8 @@ const styles = StyleSheet.create({
     // borderColor:"#ffffff",
     borderRadius:10,
     // borderWidth:5
+    elevation: 5,
+    shadowColor: '#000000',
     
     
   },
